@@ -6,6 +6,8 @@ printf("\n enter the numberr");
 scanf("%d",&n);
 for(i=0;i<n;i++)
 {
-printf("\n hello");
+  sum+=1;
 }
+  pritf("sum=%d",sum);
+  return 0;
 }
